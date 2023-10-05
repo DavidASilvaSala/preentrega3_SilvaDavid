@@ -248,43 +248,43 @@ nav {
     transform: translateX(100px); } }
 
 /* Estilos beneficios*/
-/* line 287, ../../OneDrive/Escritorio/Diseño Web/Corder/Tercera Pre entrega/sass/estilos.scss */
+/* line 288, ../../OneDrive/Escritorio/Diseño Web/Corder/Tercera Pre entrega/sass/estilos.scss */
 #titulo_beneficios {
   text-align: center;
   margin-top: 20px;
   margin-bottom: 30px;
   color: #404040; }
 
-/* line 294, ../../OneDrive/Escritorio/Diseño Web/Corder/Tercera Pre entrega/sass/estilos.scss */
+/* line 295, ../../OneDrive/Escritorio/Diseño Web/Corder/Tercera Pre entrega/sass/estilos.scss */
 .imagen_beneficios {
   margin-top: 40px; }
 
 /* Estilos Contactanos*/
-/* line 305, ../../OneDrive/Escritorio/Diseño Web/Corder/Tercera Pre entrega/sass/estilos.scss */
+/* line 306, ../../OneDrive/Escritorio/Diseño Web/Corder/Tercera Pre entrega/sass/estilos.scss */
 #mapa {
   margin-top: 70px; }
 
-/* line 310, ../../OneDrive/Escritorio/Diseño Web/Corder/Tercera Pre entrega/sass/estilos.scss */
+/* line 311, ../../OneDrive/Escritorio/Diseño Web/Corder/Tercera Pre entrega/sass/estilos.scss */
 #titulo_contacto {
   text-align: center;
   margin-left: 550px;
   margin-bottom: 30px;
   color: #404040; }
 
-/* line 317, ../../OneDrive/Escritorio/Diseño Web/Corder/Tercera Pre entrega/sass/estilos.scss */
+/* line 318, ../../OneDrive/Escritorio/Diseño Web/Corder/Tercera Pre entrega/sass/estilos.scss */
 .bi-telephone-fill {
   margin-right: 20px; }
 
-/* line 321, ../../OneDrive/Escritorio/Diseño Web/Corder/Tercera Pre entrega/sass/estilos.scss */
+/* line 322, ../../OneDrive/Escritorio/Diseño Web/Corder/Tercera Pre entrega/sass/estilos.scss */
 .bi-envelope-check-fill {
   margin-right: 20px; }
 
-/* line 325, ../../OneDrive/Escritorio/Diseño Web/Corder/Tercera Pre entrega/sass/estilos.scss */
+/* line 326, ../../OneDrive/Escritorio/Diseño Web/Corder/Tercera Pre entrega/sass/estilos.scss */
 .bi-whatsapp {
   margin-right: 20px; }
 
 /* Estilos Sobre Nosotros*/
-/* line 331, ../../OneDrive/Escritorio/Diseño Web/Corder/Tercera Pre entrega/sass/estilos.scss */
+/* line 332, ../../OneDrive/Escritorio/Diseño Web/Corder/Tercera Pre entrega/sass/estilos.scss */
 #titulo_sobre_nosotros {
   text-align: center;
   margin-top: 20px;
@@ -292,35 +292,35 @@ nav {
   color: #404040; }
 
 /* Estilos Footer*/
-/* line 340, ../../OneDrive/Escritorio/Diseño Web/Corder/Tercera Pre entrega/sass/estilos.scss */
+/* line 341, ../../OneDrive/Escritorio/Diseño Web/Corder/Tercera Pre entrega/sass/estilos.scss */
 footer {
   background-color: #BFBFBF; }
 
-/* line 344, ../../OneDrive/Escritorio/Diseño Web/Corder/Tercera Pre entrega/sass/estilos.scss */
+/* line 345, ../../OneDrive/Escritorio/Diseño Web/Corder/Tercera Pre entrega/sass/estilos.scss */
 .color_derechos_reservados {
   padding-top: 10px;
   color: #404040; }
 
-/* line 348, ../../OneDrive/Escritorio/Diseño Web/Corder/Tercera Pre entrega/sass/estilos.scss */
+/* line 349, ../../OneDrive/Escritorio/Diseño Web/Corder/Tercera Pre entrega/sass/estilos.scss */
 ul {
   list-style: none; }
 
-/* line 352, ../../OneDrive/Escritorio/Diseño Web/Corder/Tercera Pre entrega/sass/estilos.scss */
+/* line 353, ../../OneDrive/Escritorio/Diseño Web/Corder/Tercera Pre entrega/sass/estilos.scss */
 .bi-facebook {
   font-size: 30px;
   color: #404040; }
 
-/* line 357, ../../OneDrive/Escritorio/Diseño Web/Corder/Tercera Pre entrega/sass/estilos.scss */
+/* line 358, ../../OneDrive/Escritorio/Diseño Web/Corder/Tercera Pre entrega/sass/estilos.scss */
 .bi-instagram {
   font-size: 30px;
   color: #404040; }
 
-/* line 362, ../../OneDrive/Escritorio/Diseño Web/Corder/Tercera Pre entrega/sass/estilos.scss */
+/* line 363, ../../OneDrive/Escritorio/Diseño Web/Corder/Tercera Pre entrega/sass/estilos.scss */
 .bi-twitter-x {
   font-size: 30px;
   color: #404040; }
 
-/* line 366, ../../OneDrive/Escritorio/Diseño Web/Corder/Tercera Pre entrega/sass/estilos.scss */
+/* line 367, ../../OneDrive/Escritorio/Diseño Web/Corder/Tercera Pre entrega/sass/estilos.scss */
 #alineacion_iconos {
   display: flex;
   justify-content: space-between;
